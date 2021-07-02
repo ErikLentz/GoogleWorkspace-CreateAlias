@@ -9,8 +9,8 @@ The user running the script must be a Super Admin in Google Workspace.
 
 ### Installation and Use
 
-1. Create a new Google Sheet named __Create Alias__  \*
-2. For A1 enter __Primary ID__ - for B1 enter __Alias id__ - for C1 enter __Alias Creation Status
+1. Create a new Google Sheet named __Create Alias__ \*
+2. For A1 enter __Primary ID__ - for B1 enter __Alias id__ - for C1 enter __Alias Creation Status__
 ![Sheet heading](Sheet-heading.png)
 3. Enter the Primary user IDs and the desired aliases in the appropriate columns.
 4. Click Tools - Script Editor.
