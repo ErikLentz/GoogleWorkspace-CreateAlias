@@ -1,7 +1,7 @@
 # GoogleWorkspace-CreateAlias
 Google Apps Script to creates email aliases for Google Workspace users in bulk, from a Google Sheet
 
-This script is intended for Google Workspace admins to bulk-add aliases from a Google Sheet. While Google Admin Console allows this functionality already, it only creates aliases if their user's email prefix before the @ is the same; with this script, you can bulk-add aliases with varying prefixes.
+This script is intended for Google Workspace admins to bulk-add aliases from a Google Sheet. While Google Admin Console allows this functionality already via bulk CSV upload, it only creates aliases if the user's email prefix before the @ is the same; with this script, you can bulk-add aliases with varying prefixes.
 
 ### Requirements
 
